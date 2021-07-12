@@ -1,0 +1,29 @@
+.jumbotron {
+    background: url(../CatFacts-API/Assets/dog.jpg)  fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-family: 'Comfortaa', cursive;
+    color: #C1C1C1;
+    font-size: 20px;
+}
+
+.jumbo-header {
+    display: flex;
+    justify-content: center;
+}
+
+.jumbo-para {
+    display: flex;
+    justify-content: center;
+}
