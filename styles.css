@@ -1,5 +1,5 @@
 .jumbotron {
-    background: url(../CatFacts-API/Assets/dog.jpg)  fixed;
+    background: url(./Assets/dog.jpg)  fixed;
     background-size: cover;
     height: 100vh;
 }
