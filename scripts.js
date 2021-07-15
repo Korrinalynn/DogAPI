@@ -4,7 +4,7 @@ const baseURL = 'https://efa-cors-anywhere.herokuapp.com/https://dog-facts-api.h
 let para = document.querySelector('.p');
 
 function catFacts() {
-    console.log("hello");
+    //console.log("hello");
     fetch(baseURL)
         .then(response => response.json())
         .then(json => facts(json));
