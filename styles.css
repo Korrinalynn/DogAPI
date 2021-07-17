@@ -2,6 +2,7 @@
     background: url(./Assets/dog.jpg)  fixed;
     background-size: cover;
     height: 100vh;
+    margin-bottom: 0px;
 }
 
 .button {
@@ -15,7 +16,7 @@
     margin-top: 100px;
     font-family: 'Comfortaa', cursive;
     color: #C1C1C1;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .jumbo-para {
